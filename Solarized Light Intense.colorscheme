@@ -1,3 +1,12 @@
+[Foreground]
+Color=101,123,131
+
+[ForegroundFaint]
+Color=141,172,182
+
+[ForegroundIntense]
+Color=88,110,117
+
 [Background]
 Color=253,246,227
 
@@ -78,15 +87,6 @@ Color=238,232,213
 
 [Color7Intense]
 Color=7,54,66
-
-[Foreground]
-Color=101,123,131
-
-[ForegroundFaint]
-Color=141,172,182
-
-[ForegroundIntense]
-Color=88,110,117
 
 [General]
 Blur=false
